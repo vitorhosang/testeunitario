@@ -1,0 +1,30 @@
+{
+  "name": "testeunitario",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha",
+    "lint": "npx eslint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vitorhosang/testeunitario.git"
+  },
+  "keywords": [
+    "ESlint"
+  ],
+  "author": "Vitor Hosang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vitorhosang/testeunitario.git"
+  },
+  "homepage": "https://github.com/vitorhosang/testeunitario.git",
+  "devDependencies": {
+    "eslint": "^8.37.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.27.5",
+    "install": "^0.13.0",
+    "mocha": "^10.2.0"
+  }
+}
